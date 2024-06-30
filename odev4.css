@@ -1,0 +1,61 @@
+.logo{
+   padding-top: 100px;
+   padding-left: 550px;
+
+}
+.form p{
+    padding-left: 630px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 3px;
+    
+
+}
+.form{
+    background-color: rgb(221 221 221);
+
+}
+.special{
+    width: 555px;
+    background-color: aqua;
+    margin-top: 1px;
+    padding-top: 0.5px;
+    text-align: center;
+    float:left;
+    margin-right: 5px;
+    height: 100px;
+    white-space: nowrap;
+}
+.box{
+    background-color: aqua;
+    margin-top: 1px;
+    padding-top: 5px;
+    width: 400px;
+    text-align: center;
+    float: left;
+    margin-right: 5px;
+    height: 95px;
+}
+.box1{
+    float: left;
+    margin-top: 1px;
+    padding-top: 0.5px;
+    width: 555px;
+    text-align: center;
+    background-color: aqua;
+    margin-right: 0px;
+    height: 100px;
+    font-size: x-small;
+    white-space: nowrap;
+}
+.box1 a{
+    margin-left: 5px;
+}
+.box1 p {
+   font-weight: bold;
+}
+.footer{
+   margin-top: 10px;
+    text-align: center;
+    font-weight: bold;
+   
+}
